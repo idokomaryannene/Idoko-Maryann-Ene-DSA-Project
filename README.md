@@ -26,15 +26,23 @@ The analysis is intended to help management identify significant performance tre
 # **Project Deliverables**
 1. **Executive Summary**  
    Presents key financial KPIs, revenue and profit trends, profitability margins, and an expense breakdown.
-   Executive Summary.Png
+   
+   ![Executive Summary](Executive%20Summary.png)
+   
 3. **Profit & Loss Statement**  
    Shows revenue, cost of sales, gross profit, operating expenses, operating profit, and net profit before tax.
    
+   ![Profit and Loss Statement](Profit%20%26%20Loss%20Statement.png)
+   
 5. **Financial Performance Analysis**  
    Compares year-over-year and month-over-month results, monthly revenue by year, and profitability margin trends.
+   
+   ![Financial Performance Analysis](Financial%20Performance%20Analysis.png)
 
-6. **Operational Analysis**  
+7. **Operational Analysis**  
    Examines revenue by branch, expenses by account group, and operating expenses by department.
+
+   ![Operational Analysis](Operational%20Analysis.png)
    
 # **Key Financial Findings**
    
