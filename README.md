@@ -27,22 +27,22 @@ The analysis is intended to help management identify significant performance tre
 1. **Executive Summary**  
    Presents key financial KPIs, revenue and profit trends, profitability margins, and an expense breakdown.
    
-   ![Executive Summary](Executive%20Summary.png)
+  ![Executive Summary](https://github.com/idokomaryannene/Idoko-Maryann-Ene-DSA-Project/blob/main/Executive%20Summary.png)
    
-3. **Profit & Loss Statement**  
+2. **Profit & Loss Statement**  
    Shows revenue, cost of sales, gross profit, operating expenses, operating profit, and net profit before tax.
    
-   ![Profit and Loss Statement](Profit%20%26%20Loss%20Statement.png)
-   
-5. **Financial Performance Analysis**  
+  ![Profit & Loss Statement](https://github.com/idokomaryannene/Idoko-Maryann-Ene-DSA-Project/blob/main/Profit%20%26%20Loss%20Statement.png)
+    
+3. **Financial Performance Analysis**  
    Compares year-over-year and month-over-month results, monthly revenue by year, and profitability margin trends.
    
-   ![Financial Performance Analysis](Financial%20Performance%20Analysis.png)
-
-7. **Operational Analysis**  
+ ![Financial Performance Analysis](https://github.com/idokomaryannene/Idoko-Maryann-Ene-DSA-Project/blob/main/Financial%20Performance%20Analysis.png)
+   
+4. **Operational Analysis**  
    Examines revenue by branch, expenses by account group, and operating expenses by department.
 
-   ![Operational Analysis](Operational%20Analysis.png)
+ ![Operational Analysis](https://github.com/idokomaryannene/Idoko-Maryann-Ene-DSA-Project/blob/main/Operational%20Analysis.png)
    
 # **Key Financial Findings**
    
