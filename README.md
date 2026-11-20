@@ -26,7 +26,7 @@ The analysis is intended to help management identify significant performance tre
 # **Project Deliverables**
 1. **Executive Summary**  
    Presents key financial KPIs, revenue and profit trends, profitability margins, and an expense breakdown.
-   
+   Executive Summary.Png
 3. **Profit & Loss Statement**  
    Shows revenue, cost of sales, gross profit, operating expenses, operating profit, and net profit before tax.
    
